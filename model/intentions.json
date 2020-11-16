@@ -1,0 +1,31 @@
+{"intents": [
+        {"tag": "greet",
+         "patterns": ["Halo", "Selamat pagi", "Selamat sore", "Selamat malam", "Hai", "Hi", "Hai kak", "Halo gan"],
+         "responses": ["Halo kak", "Hai kak", "Ada yang bisa dibantu kak?"],
+         "context_set": ""
+        },
+        {
+        "tag": "ready",
+         "patterns": ["Halo kak apakah barang ini ready?", "Ready kak?", "Ready gan?", "Redi kah?", "Ini ready gak kak?"],
+         "responses": ["Ready kak barangnya", "Ready kak, silakan di order"],
+         "context_set": ""
+        },
+        {"tag": "thanks",
+         "patterns": ["Terima kasih", "Trims", "Thanks", "Terima kasih banyak", "Makasih"],
+         "responses": ["Sama-sama kak", "Terima kasih juga kak"],
+         "context_set": ""
+        },
+        {
+          "tag": "openHours",
+          "patterns": ["Masih buka tokonya?", "Masih buka tokonya kak?", "Tokonya apakah masih buka?"],
+          "responses": ["Toko kami buka dari jam 8 pagi sampai 8 malam kak"],
+          "context_set": ""
+        },
+        {
+          "tag": "lastResort",
+          "patterns": [""],
+          "responses": ["Maaf kak saya kurang mengerti pertanyaannya", "Maaf kak maksudnya bagaimana?", "Bisa di ulang pertanyaannya kak?"],
+          "context_set": ""
+        }
+    ]
+}

@@ -15,9 +15,9 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-    if message.content.startswith('!hello'):
-        messageCore = message.content.strip('!hello')
-        reply = rinabot.reply(messageCore) + ' ' + str(message.author)
+    if message.content.startswith('!'):
+        messageCore = str(message.content).strip('!')
+        reply = rinabot.reply(messageCore)
         await message.channel.send(reply)
 
 
@@ -28,5 +28,5 @@ async def on_ready():
     print('------')
 
 
-rinabot = rinabot.Bot()
-client.run(TOKEN)
+rinabot = rinabot.Bot(train=True)
+client.run(TOKEN)   

@@ -7,9 +7,12 @@ from tensorflow import keras
 from keras.layers import Dense, Activation, Dropout
 from keras.optimizers import SGD
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
+import pymongo
 
 class Bot:
-    def __init__(self, train=False):
+    def __init__(self, train=False, printInfo=False):
+        self.train = train
+        self.printInfo = printInfo
         # parser that the bot will use
         self.factory = StemmerFactory()
         self.stemmer = self.factory.create_stemmer()
@@ -17,8 +20,7 @@ class Bot:
         # setup the words and data known by the bot
         with open('model/intentions.json') as data:
             self.data = json.load(data)
-        with open('model/ignore_words.json') as ignore_words:
-            self.ignore_words = json.load(ignore_words)
+        self.ignore_words = ["?", "!", ".", ",", ""]
 
         # Setup all of these:
         # vocabularies will store all the known words within intentions.json
@@ -38,17 +40,23 @@ class Bot:
                 self.vocabularies.extend(tokens)
                 # insert the phrases and intent known by the AI
                 self.training_data.append([tokens, intent["tag"]])
-
         # filter the vocabularies so that only unique terms are placed
         self.vocabularies = sorted(list(set(self.vocabularies)))
         # sort the labels
         self.labels = sorted(self.labels)
+
+        if self.printInfo == True:
+            print("LABELS: " + str(len(self.labels)), self.labels)
+            print("UTTERANCES: " + str(len(self.vocabularies)), self.vocabularies)
+            print("TRAINING DATA: ", str(len(self.training_data)), self.training_data)
+        
 
         if train == True:
             self.model = self.train_model()
         else:
             self.model = keras.models.load_model('model/chatbot_model.h5')
         print("Model Created")
+        
 
 
     def train_model(self):
@@ -70,7 +78,6 @@ class Bot:
 
             output_layer = list(empty_output)
             output_layer[self.labels.index(data[1])] = 1
-            # print(bag, output_layer)
             training.append([bag, output_layer])
 
         random.shuffle(training)
@@ -94,12 +101,12 @@ class Bot:
         # fitting and saving the model
         hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)
         model.save('model/chatbot_model.h5', hist)
-        # model.summary(line_length=None, positions=None, print_fn=None)
+        if self.printInfo == True:
+            model.summary(line_length=None, positions=None, print_fn=None)
         return model
 
 
     def reply(self, user_dialogue):
-        print(user_dialogue)
         user_dialogue = nltk.word_tokenize(user_dialogue)
         user_dialogue = [self.stemmer.stem(words.lower()) for words in user_dialogue if words not in self.ignore_words]
 
@@ -115,12 +122,57 @@ class Bot:
 
         # predict the intent from the user
         res = self.model.predict(np.array([bag]))[0]
-        # results = [[i, r] for i, r in enumerate(res) if r > ERROR_THRESHOLD]
         user_intent = self.labels[np.argmax(res)]
+
+        # data-based intent
+        special_content = ["ready", "recommendation"]
+        item = self.search_item(user_dialogue)
+
         # get response from a certain intent
         list_of_intents = self.data['intents']
         for i in list_of_intents:
             if i['tag'] == user_intent:
-                result = random.choice(i['responses'])
+                if i['tag'] in special_content and item != -1:
+                    if i['tag'] == 'ready':
+                        result = random.choice(i['responses']) + ' ' + item['amount'] + 'pcs'
+                    elif i['tag'] == "recommendation":
+                        result = random.choice(i['responses']) + ' ' + item['url']
+                else:
+                    result = random.choice(i['responses'])
                 break
         return result
+
+    def search_item(self, user_dialogue):
+        myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+        mydb = myclient['mydatabase']
+        dataDB = mydb["items"]
+        
+        best_item = []
+        for items in dataDB.find():
+            for words in user_dialogue:
+                if words in items['tags']:
+                    best_item.append(items['id'])
+        best_item = sorted(best_item)
+
+        best_id = {}
+        for id in best_item:
+            if id in best_id:
+                curNum = best_id[id]
+                curNum += 1
+                best_id[id] = curNum
+            else:
+                best_id[id] = 1
+        output_item = ""
+        if best_id:
+            output_item = max(best_id, key=best_id.get)
+            for items in dataDB.find({'id': output_item}):
+                return items
+        else:
+            return -1
+
+# if __name__ == '__main__':
+#     rina_bot = Bot(train=True, printInfo=False)
+#     while True:
+#         text = input()
+#         print(rina_bot.reply(text))
+

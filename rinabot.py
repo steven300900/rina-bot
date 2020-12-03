@@ -10,9 +10,10 @@ from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 import pymongo
 
 class Bot:
-    def __init__(self, train=False, printInfo=False):
+    def __init__(self, train=False, print_info=False, setup=False):
         self.train = train
-        self.printInfo = printInfo
+        self.print_info = print_info
+        self.setup = setup
         # parser that the bot will use
         self.factory = StemmerFactory()
         self.stemmer = self.factory.create_stemmer()
@@ -45,7 +46,7 @@ class Bot:
         # sort the labels
         self.labels = sorted(self.labels)
 
-        if self.printInfo == True:
+        if self.print_info == True:
             print("LABELS: " + str(len(self.labels)), self.labels)
             print("UTTERANCES: " + str(len(self.vocabularies)), self.vocabularies)
             print("TRAINING DATA: ", str(len(self.training_data)), self.training_data)
@@ -101,7 +102,7 @@ class Bot:
         # fitting and saving the model
         hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)
         model.save('model/chatbot_model.h5', hist)
-        if self.printInfo == True:
+        if self.print_info == True:
             model.summary(line_length=None, positions=None, print_fn=None)
         return model
 
@@ -147,6 +148,12 @@ class Bot:
         mydb = myclient['mydatabase']
         dataDB = mydb["items"]
         
+        if self.setup == True:
+            with open('data/product_list.json') as database_file:
+                database_file = json.load(database_file)
+                dataDB.drop()
+                dataDB.insert_one(database_file)
+        
         best_item = []
         for items in dataDB.find():
             for words in user_dialogue:
@@ -171,7 +178,7 @@ class Bot:
             return -1
 
 # if __name__ == '__main__':
-#     rina_bot = Bot(train=True, printInfo=False)
+#     rina_bot = Bot(train=True, print_info=False)
 #     while True:
 #         text = input()
 #         print(rina_bot.reply(text))

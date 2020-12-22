@@ -1,0 +1,326 @@
+﻿ ,Tidak bisa diubah,,,,,Informasi SKU,,,,
+Error Message,Product ID,Nama Produk,URL,Total Stok,Stok Campaign,Stok Utama*,SKU Name,Status*,Harga (Rp)*,
+Abaikan kolom ini. Kolom akan menampilkan pesan jika ada kesalahan setelah kamu melakukan upload produk.,"Abaikan kolom ini. Jangan ubah ID Produkmu. 
+
+Jika kamu ubah dan masukkan ID produk lain yang benar, ID produk akan berubah. Namun, jika kamu ubah dan masukkan ID produk yang salah, informasi akan diabaikan.",Jangan ubah Nama Produk. Setiap ada perubahan yang kamu buat pada nama produk akan diabaikan.,URL tidak dapat diubah. Perubahan di URL akan diabaikan.,Total Stock tidak dapat diubah. Perubahan di Total Stock akan diabaikan,Stok campaign tidak bisa diubah. Pelajari stok campaign selengkapnya di https://seller.tokopedia.com/edu/cara-atur-diskon-potongan-harga-os/,"Isi jumlah stok yang tersedia dalam format angka tanpa menggunakan koma dan titik. Stok akan berkurang ketika pembayaran dari pembeli telah diverifikasi. Jumlah stok tidak ditampilkan kepada pembeli. Jika kolom tidak diisi atau mengandung sesuatu di luar angka 1 hingga 999999, maka otomatis 1.","(Opsional) Masukkan SKU maks. 50 karakter.
+ 
+SKU bisa diubah jika produk ini belum terjual.","Pilih status produk: Aktif atau Nonaktif
+
+Jika kolom tidak diisi atau mengandung sesuatu di luar aktif atau nonaktif maka otomatis aktif.",Masukkan harga produk. Harga dalam rupiah tanpa menggunakan koma dan titik. Harga harus antara 100 - 10000000000000000,
+,651531032,ACETECH LIGHTER S TRACER UNIT,https://tokopedia.com/bunshopz/acetech-lighter-s-tracer-unit,0,0,0,,Nonaktif,1200000,5ecea3851b35b7e453a8
+,490259885,AIP 120% ENHANCED RECOIL SPRING AND HAMMER SPRING HICAPA HI-CAPA,https://tokopedia.com/bunshopz/aip-120-enhanced-recoil-spring-and-hammer-spring-hicapa-hi-capa,1,0,1,,Nonaktif,115000,293a4d7d49ce04e4fe21
+,490261096,AIP 140% ENHANCED RECOIL SPRING AND HAMMER SPRING HICAPA HI-CAPA,https://tokopedia.com/bunshopz/aip-140-enhanced-recoil-spring-and-hammer-spring-hicapa-hi-capa,2,0,2,,Nonaktif,120000,9d607a1e64782220e2e1
+,671502780.1,AIP RECOIL SPRING GUIDE PLUG HI-CAPA HICAPA 4.3 GOLD - Hitam,https://www.tokopedia.com/bunshopz/aip-recoil-spring-guide-plug-hi-capa-hicapa-4-3-gold-hitam,2,0,2,,Aktif,250000,bce6567ad6792d1230fd
+,455244877,AS SHOCK DEPAN CHOHO MIO NEW,https://tokopedia.com/bunshopz/as-shock-depan-choho-mio-new,100,0,100,,Aktif,148900,8e05fce8058b506d2b25
+,455258147,AS SHOCK DEPAN CS1 CS 1 CHOHO,https://tokopedia.com/bunshopz/as-shock-depan-cs1-cs-1-choho,98,0,98,,Aktif,103900,6acd2ed826be523f9e1c
+,455261302,AS SHOCK DEPAN GRAND CHOHO,https://tokopedia.com/bunshopz/as-shock-depan-grand-choho,100,0,100,,Aktif,90000,9b0995dc3a4c26992b84
+,455248111,AS SHOCK DEPAN MIO M3 MIO Z 125 CHOHO,https://tokopedia.com/bunshopz/as-shock-depan-mio-m3-mio-z-125-choho,100,0,100,,Aktif,103900,a24967d8fed1f4152b83
+,455255142,AS SHOCK DEPAN REVO ABSOLUTE ABS BLADE110 CHOHO,https://tokopedia.com/bunshopz/as-shock-depan-revo-absolute-abs-blade110-choho,100,0,100,,Aktif,143900,3b0e43f3ebd9333fb756
+,455271259,AS SHOCK DEPAN SKYWAVE SKYWAFE CHOHO,https://tokopedia.com/bunshopz/as-shock-depan-skywave-skywafe-choho,100,0,100,,Aktif,90000,1e59534d02adb919d771
+,455289482,AS SHOCK SHOK DEPAN BEAT ESP 2018 TAKA,https://tokopedia.com/bunshopz/as-shock-shok-depan-beat-esp-2018-taka,100,0,100,,Aktif,95000,b6845cd89bba532aded0
+,455288284,AS SHOCK SHOK DEPAN BEAT FI 2018 TAKA,https://tokopedia.com/bunshopz/as-shock-shok-depan-beat-fi-2018-taka,100,0,100,,Aktif,95000,61e2c917cdab7fe14007
+,461428879,AS SHOCK SHOK DEPAN DAN SEAL SHOCK TS 125 TS125,https://tokopedia.com/bunshopz/as-shock-shok-depan-dan-seal-shock-ts-125-ts125,10,0,10,,Aktif,230000,b06af248dc446e751905
+,455333258,AS SHOCK SHOK DEPAN F1 F1ZR YUZAKA,https://tokopedia.com/bunshopz/as-shock-shok-depan-f1-f1zr-yuzaka,99,0,99,,Aktif,105000,fa99f052db87f02afade
+,455335883,AS SHOCK SHOK DEPAN JUPITER MX 2010 YUZAKA,https://tokopedia.com/bunshopz/as-shock-shok-depan-jupiter-mx-2010-yuzaka,100,0,100,,Aktif,95000,431138290e5719f1b1f6
+,455338477,AS SHOCK SHOK DEPAN JUPITER Z KARBU,https://tokopedia.com/bunshopz/as-shock-shok-depan-jupiter-z-karbu,100,0,100,,Aktif,98900,ad6387d9e123cfe1bb78
+,455339270,AS SHOCK SHOK DEPAN KHARISMA KARISMA YUZAKA,https://tokopedia.com/bunshopz/as-shock-shok-depan-kharisma-karisma-yuzaka,100,0,100,,Aktif,115000,c24c0fc8658e1b1cbb31
+,455268240,AS SHOCK SHOK DEPAN MIO LAMA CHOHO,https://tokopedia.com/bunshopz/as-shock-shok-depan-mio-lama-choho,100,0,100,,Aktif,103900,614aeabe3a085471c3ce
+,455293613,AS SHOCK SHOK DEPAN MIO SOUL,https://tokopedia.com/bunshopz/as-shock-shok-depan-mio-soul,100,0,100,,Aktif,95000,6d7d7e5f8c8204ac73d0
+,455342057,AS SHOCK SHOK DEPAN NMAX N MAX YUZAKA,https://tokopedia.com/bunshopz/as-shock-shok-depan-nmax-n-max-yuzaka,100,0,100,,Aktif,110000,c0cd1eb2acc4257b75bc
+,455269690,AS SHOCK SHOK DEPAN PRIMA,https://tokopedia.com/bunshopz/as-shock-shok-depan-prima,100,0,100,,Aktif,145000,2f492a1a03ad077014de
+,455297844,AS SHOCK SHOK DEPAN REVO ABSOLUTE ABS,https://tokopedia.com/bunshopz/as-shock-shok-depan-revo-absolute-abs,100,0,100,,Aktif,98900,055c65f8adc8f6649354
+,455280590,AS SHOCK SHOK DEPAN SCOOPY CHOHO,https://tokopedia.com/bunshopz/as-shock-shok-depan-scoopy-choho,100,0,100,,Aktif,90000,5087b1b33be2a85856b5
+,455343575,AS SHOCK SHOK DEPAN SMASH YUZAKA,https://tokopedia.com/bunshopz/as-shock-shok-depan-smash-yuzaka,100,0,100,,Aktif,103900,7f38c40847654936c38b
+,455344948,AS SHOCK SHOK DEPAN SUPRA X YUZAKA,https://tokopedia.com/bunshopz/as-shock-shok-depan-supra-x-yuzaka,100,0,100,,Aktif,103900,19f4426a0bc066c52dfe
+,455298238,AS SHOCK SHOK DEPAN VEGA R NEW YUZAKA,https://tokopedia.com/bunshopz/as-shock-shok-depan-vega-r-new-yuzaka,0,0,100,,Aktif,98900,8ec528e2ca9d16a9ba3f
+,455282213,AS SHOCK SHOK DEPAN XEON CHOHO,https://tokopedia.com/bunshopz/as-shock-shok-depan-xeon-choho,100,0,100,,Aktif,90000,4edc7dcaa255d18e3658
+,372027676,BAN LUAR SWALLOW 50 100 14,https://tokopedia.com/bunshopz/ban-luar-swallow-50-100-14,98,0,98,,Nonaktif,90000,d440e8c53d3b945bc606
+,372026615,BAN LUAR SWALLOW 60 90 14,https://tokopedia.com/bunshopz/ban-luar-swallow-60-90-14,100,0,100,,Aktif,92000,7d8633b13aef033568e7
+,1223048859,BBH HICAPA HI-CAPA ORIGINAL TM,https://tokopedia.com/bunshopz/bbh-hicapa-hi-capa-original-tm,1,0,1,,Nonaktif,235000,693947387d45fda97fb7
+,566831950,BBH HOUSING EDGE HICAPA HI-CAPA 1911 MEU TM KJW WE,https://tokopedia.com/bunshopz/bbh-housing-edge-hicapa-hi-capa-1911-meu-tm-kjw-we,2,0,2,,Aktif,850000,d52074bdbc8d9b20f770
+,906052565,BBH HOUSING EDGE HICAPA HI-CAPA 1911 Merah Red MEU TM KJW WE,https://tokopedia.com/bunshopz/bbh-housing-edge-hicapa-hi-capa-1911-merah-red-meu-tm-kjw-we,0,0,0,,Nonaktif,835000,e1a5750f512c75d0e224
+,372548651,BLOK SEHER ATAU BORING BEAT ESP FI MILKUNI,https://tokopedia.com/bunshopz/blok-seher-atau-boring-beat-esp-fi-milkuni,10,0,10,,Aktif,297900,0ab52c7d376d26016456
+,372551673,BLOK SEHER ATAU BORING BEAT FI MILKUNI,https://tokopedia.com/bunshopz/blok-seher-atau-boring-beat-fi-milkuni,10,0,10,,Aktif,263900,f527ebf4387e83debd9b
+,371986819,BLOK SEHER ATAU BORING GL100 GL 100 MILKUNI,https://tokopedia.com/bunshopz/blok-seher-atau-boring-gl100-gl-100-milkuni,0,0,0,,Nonaktif,263900,d69b522932f8418e9d6a
+,372554042,BLOK SEHER ATAU BORING GLPRO NEOTECH GL PRO NEOTECH MILKUNI,https://tokopedia.com/bunshopz/blok-seher-atau-boring-glpro-neotech-gl-pro-neotech-milkuni,10,0,10,,Aktif,283900,27aa36b247ce8061a867
+,371988713,BLOK SEHER ATAU BORING KLX MILKUNI,https://tokopedia.com/bunshopz/blok-seher-atau-boring-klx-milkuni,9,0,9,,Aktif,363900,d7ec578b434dfa7ee1a7
+,371932245,BLOK SEHER ATAU BORING MILKUNI BEAT SCOOPY SPACY KARBU,https://tokopedia.com/bunshopz/blok-seher-atau-boring-milkuni-beat-scoopy-spacy-karbu,18,0,18,,Aktif,270000,6e4fbe36359170104b27
+,372554969,BLOK SEHER ATAU BORING MIO J FINO FI MIO GT SOUL GT MILKUNI,https://tokopedia.com/bunshopz/blok-seher-atau-boring-mio-j-fino-fi-mio-gt-soul-gt-milkuni,9,0,9,,Aktif,283900,ce850d664d99924f789a
+,373522613,BLOK SEHER ATAU BORING MIO MIO SOUL FINO ORISINIL YAMAHA YGP,https://tokopedia.com/bunshopz/blok-seher-atau-boring-mio-mio-soul-fino-orisinil-yamaha-ygp,10,0,10,,Aktif,210000,82016724cf15acd7d2a5
+,478554655,BLOK SEHER ATAU BORING SET RX KING RXK YP 1,https://tokopedia.com/bunshopz/blok-seher-atau-boring-set-rx-king-rxk-yp-1,100,0,100,,Aktif,1650000,bbf32e428dbbef815934
+,478500479,BLOK SEHER ATAU BORING SET TS 125 TS125,https://tokopedia.com/bunshopz/blok-seher-atau-boring-set-ts-125-ts125,99,0,99,,Aktif,875000,f1b227caf1a961d40e7e
+,373521715,BLOK SEHER ATAU BORING SILINDER JUPITER MX ORISINIL YAMAHA YGP,https://tokopedia.com/bunshopz/blok-seher-atau-boring-silinder-jupiter-mx-orisinil-yamaha-ygp,10,0,10,,Aktif,323900,b45c850ffe6f1a6217c0
+,373524004,BLOK SEHER ATAU BORING SILINDER JUPITER Z1,https://tokopedia.com/bunshopz/blok-seher-atau-boring-silinder-jupiter-z1,15,0,15,,Aktif,215000,7884f1c4d74d3fe5cfea
+,373524386,BLOK SEHER ATAU BORING SILINDER MIO J X RIDE MIO SOUL GT XRIDE YGP,https://tokopedia.com/bunshopz/blok-seher-atau-boring-silinder-mio-j-x-ride-mio-soul-gt-xride-ygp,15,0,15,,Aktif,207900,b4c73a3e0da75ad5f169
+,371991134,BLOK SEHER ATAU BORING SPIN125 125 MILKUNI,https://tokopedia.com/bunshopz/blok-seher-atau-boring-spin125-125-milkuni,10,0,10,,Aktif,263900,23b01e44a1798149df03
+,372556179,BLOK SEHER ATAU BORING SUPRAX SUPRA X GRAND MILKUNI,https://tokopedia.com/bunshopz/blok-seher-atau-boring-suprax-supra-x-grand-milkuni,10,0,10,,Aktif,197900,e3fa0b5018a5dcfdcb01
+,373519293,BLOK SEHER ATAU BORING VIXION ORISINIL YAMAHA,https://tokopedia.com/bunshopz/blok-seher-atau-boring-vixion-orisinil-yamaha,10,0,10,,Aktif,293900,f03c1af5e6da38d9948b
+,373517785,BLOK SEHER BORING DAN PISTON KIT JUPITER MX ORISINIL YAMAHA,https://tokopedia.com/bunshopz/blok-seher-boring-dan-piston-kit-jupiter-mx-orisinil-yamaha,10,0,10,,Aktif,587900,905fdaa2bdb44e300ecc
+,373519932,BLOK SEHER BORING DAN PISTON KIT JUPITER Z1 Z 1 ORISINIL YAMAHA,https://tokopedia.com/bunshopz/blok-seher-boring-dan-piston-kit-jupiter-z1-z-1-orisinil-yamaha,10,0,10,,Aktif,333900,06a6dd2f1cf79e55c809
+,373518911,BLOK SEHER BORING DAN PISTON KIT MIO MIO SOUL FINO ORISINIL YAMAHA,https://tokopedia.com/bunshopz/blok-seher-boring-dan-piston-kit-mio-mio-soul-fino-orisinil-yamaha,10,0,10,,Aktif,353900,28a26301b3b8f08bb2b8
+,328912369,BLOK SEHER BORING F1ZR FORCE ONE THALLAND,https://tokopedia.com/bunshopz/blok-seher-boring-f1zr-force-one-thalland,12,0,12,,Nonaktif,340000,c4a2097a73076e290b88
+,328914214,BLOK SEHER BORING GRAND PRIMA SUPRA X 110,https://tokopedia.com/bunshopz/blok-seher-boring-grand-prima-supra-x-110,16,0,16,,Nonaktif,173900,06d6053805d0a5beb2bf
+,328915166,BLOK SEHER BORING JUPITER Z SET MILKUNI,https://tokopedia.com/bunshopz/blok-seher-boring-jupiter-z-set-milkuni,15,0,15,,Aktif,258900,cbf66e9bfc79fdb8dfb5
+,328916485,BLOK SEHER BORING MIO J MIO GT X RIDE TAKA,https://tokopedia.com/bunshopz/blok-seher-boring-mio-j-mio-gt-x-ride-taka,15,0,15,,Aktif,308900,fc83aab393464af562a3
+,328919479,BLOK SEHER BORING MIO J MIO GT X RIDE THALLAND,https://tokopedia.com/bunshopz/blok-seher-boring-mio-j-mio-gt-x-ride-thalland,16,0,16,,Nonaktif,273900,abc4eb8e937e7171fcbc
+,328921784,BLOK SEHER BORING MIO KARBU,https://tokopedia.com/bunshopz/blok-seher-boring-mio-karbu,0,0,0,,Nonaktif,263900,d26887c054828675369c
+,329112875,BLOK SEHER BORING NEOTECH GLPRO,https://tokopedia.com/bunshopz/blok-seher-boring-neotech-glpro,15,0,15,,Aktif,289900,90ce31c1ae994f37380c
+,373521434,BLOK SEHER BORING SILINDER DAN PISTON KIT MIO J X RIDE ORISINIL YGP,https://tokopedia.com/bunshopz/blok-seher-boring-silinder-dan-piston-kit-mio-j-x-ride-orisinil-ygp,9,0,9,,Aktif,377900,47ef5a61d747a9f16a65
+,373527555,BLOK SEHER BORING SILINDER DAN PISTON KIT VEGA CRYPTON ORISINIL YGP,https://tokopedia.com/bunshopz/blok-seher-boring-silinder-dan-piston-kit-vega-crypton-orisinil-ygp,15,0,15,,Aktif,403900,b94e7029307447a30ba6
+,373525344,BLOK SEHER BORING SILINDER DAN PISTON KIT XEON ORISINIL YAMAHA YGP,https://tokopedia.com/bunshopz/blok-seher-boring-silinder-dan-piston-kit-xeon-orisinil-yamaha-ygp,15,0,15,,Aktif,408900,89bdde2724760d8279dd
+,329114030,BLOK SEHER BORING SUPRA FIT NEW THALLAND,https://tokopedia.com/bunshopz/blok-seher-boring-supra-fit-new-thalland,15,0,15,,Aktif,223900,a9db1806fab636a895a2
+,329116094,BLOK SEHER BORING VIXION ATAU MX TAKA,https://tokopedia.com/bunshopz/blok-seher-boring-vixion-atau-mx-taka,14,0,14,,Aktif,323900,aaaddc7072c8663d11a7
+,490402175,BLOWBACK HOUSING BBH GUARDER LIGHT WEIGHT HICAPA HI-CAPA TM MARUI,https://tokopedia.com/bunshopz/blowback-housing-bbh-guarder-light-weight-hicapa-hi-capa-tm-marui,0,0,0,,Nonaktif,350000,e0e884102d0911f0ba15
+,484578399,BLOWBACK HOUSING BBH ORI TM MARUI G17 G SERIES,https://tokopedia.com/bunshopz/blowback-housing-bbh-ori-tm-marui-g17-g-series,1,0,1,,Nonaktif,175000,e1b2ee3b4cd459a7d3e3
+,531104229,BLOWBACK HOUSING UNIT GUARDER LIGHTWEIGHT G17 19 22 34 TM WE KJW,https://tokopedia.com/bunshopz/blowback-housing-unit-guarder-lightweight-g17-19-22-34-tm-we-kjw,3,0,3,,Aktif,325000,c50a2fe9242108525b9c
+,1220507165,BUCKLE HEAD SABUK IPSC PUNISHER 3D PRINT POLYCARBONATE,https://tokopedia.com/bunshopz/buckle-head-sabuk-ipsc-punisher-3d-print-polycarbonate,999,0,999,,Nonaktif,50000,a00fdc674153b71b03a7
+,273954946,Blok Seher N Max Dan Piston Kit,https://tokopedia.com/bunshopz/blok-seher-n-max-dan-piston-kit,10,0,10,,Aktif,408900,ed1017b84fadf8308dde
+,572683239,CHAMBER ALUMINIUM PIN STEEL DP G17 G18C G34 TM MARUI WE KJW,https://tokopedia.com/bunshopz/chamber-aluminium-pin-steel-dp-g17-g18c-g34-tm-marui-we-kjw,1,0,1,,Aktif,900000,51e8476bde4a83cff3cc
+,490396006,CHAMBER CNC GUARDER TM MARUI G17 G 17 18 22 26 34 KJW WE,https://tokopedia.com/bunshopz/chamber-cnc-guarder-tm-marui-g17-g-17-18-22-26-34-kjw-we,0,0,0,,Nonaktif,275000,6c0c413aef8639f31aa3
+,1031666711,CHAMBER HICAPA HI-CAPA 5.1 DAN 4.3 GUARDER TM KJW WE,https://tokopedia.com/bunshopz/chamber-hicapa-hi-capa-5-1-dan-4-3-guarder-tm-kjw-we,0,0,0,,Nonaktif,325000,5b8df9da85528390d2af
+,536806382,COWCOW ALUMINIUM TRIGGER T2 SILVER HICAPA HI-CAPA,https://tokopedia.com/bunshopz/cowcow-aluminium-trigger-t2-silver-hicapa-hi-capa,1,0,1,,Nonaktif,235000,49b265b0e750bc74110d
+,566846142,COWCOW TRIGGER MODULE BASE BLACK HICAPA HI-CAPA,https://tokopedia.com/bunshopz/cowcow-trigger-module-base-black-hicapa-hi-capa,1,0,1,,Nonaktif,265000,56ee725799d5ca4d2a08
+,1128955367,Chamber Hicapa 5.1 4.3 SET TM KJW WE,https://tokopedia.com/bunshopz/chamber-hicapa-5-1-4-3-set-tm-kjw-we,0,0,0,,Nonaktif,425000,4589ad763fe981ff5a86
+,536778974,CowCow Aluminum CNC Trigger Module Shoe C Gold,https://tokopedia.com/bunshopz/cowcow-aluminum-cnc-trigger-module-shoe-c-gold,1,0,1,,Nonaktif,235000,f41f67eb1a520e0e3d22
+,572689811,CowCow High Flow Aluminium Loading Nozzle For Marui Hi-Capa,https://tokopedia.com/bunshopz/cowcow-high-flow-aluminium-loading-nozzle-for-marui-hi-capa,0,0,0,,Nonaktif,1100000,ba763e38ae656da0e44a
+,572695090,CowCow SS G Guide Rod Set Marui G17 G18C G34 TM WE KJW,https://tokopedia.com/bunshopz/cowcow-ss-g-guide-rod-set-marui-g17-g18c-g34-tm-we-kjw,1,0,1,,Nonaktif,495000,fe37ad517465a6693e97
+,671656949,DISCONNECTOR COWCOW IP1 TM HI-CAPA HICAPA,https://tokopedia.com/bunshopz/disconnector-cowcow-ip1-tm-hi-capa-hicapa,1,0,1,,Aktif,325000,ad28f22b9c19f543ac7a
+,671651015,DISCONNECTOR SPRING COWCOW TM HI-CAPA HICAPA,https://tokopedia.com/bunshopz/disconnector-spring-cowcow-tm-hi-capa-hicapa,1,0,1,,Nonaktif,80000,fd2e4537b268703c8189
+,467446155,DUDUKAN HANDLE KOPLING SATRIA FU 150,https://tokopedia.com/bunshopz/dudukan-handle-kopling-satria-fu-150,99,0,99,,Aktif,18000,feff7b876943688cc2b5
+,473557696,DUDUKAN LAMPU STOP LAMP RX KING RXK ORI YGP YAMAHA,https://tokopedia.com/bunshopz/dudukan-lampu-stop-lamp-rx-king-rxk-ori-ygp-yamaha,100,0,100,,Aktif,60000,a156b8ba795d8f397043
+,1220499894,DUDUKAN RMR VISMR HICAPA HI-CAPA SIGHT,https://tokopedia.com/bunshopz/dudukan-rmr-vismr-hicapa-hi-capa-sight,1000,0,1000,,Nonaktif,100000,9cd39bf4fe84de792387
+,550812421,ELEMENT CMORE C-MORE RED DOT SIGHT,https://tokopedia.com/bunshopz/element-cmore-c-more-red-dot-sight,0,0,0,,Nonaktif,650000,e9108f649cfde631966b
+,671498871,ENHANCED NOZZLE VALVE BLOCKER TM KJW WE HI-CAPA HICAPA G17 SERIES,https://tokopedia.com/bunshopz/enhanced-nozzle-valve-blocker-tm-kjw-we-hi-capa-hicapa-g17-series,0,0,0,,Nonaktif,335000,c83da85bb15ce2015ccf
+,483925722,Enhanced Spring Set Steel GUARDER G 17 18 19 34 Marui We TM KJW,https://tokopedia.com/bunshopz/enhanced-spring-set-steel-guarder-g-17-18-19-34-marui-we-tm-kjw,1,0,1,,Nonaktif,155000,a7dd0c3833689eda8f51
+,671672221,FIRING PIN STAINLESS STEEL COWCOW TM HI-CAPA HICAPA,https://tokopedia.com/bunshopz/firing-pin-stainless-steel-cowcow-tm-hi-capa-hicapa,4,0,4,,Nonaktif,350000,67bceb4831da4d8572c3
+,731905393,FRONT AND REAR SIGHT ALUMINIUM AIP HICAPA HI-CAPA 5.1 TM KJW WE,https://tokopedia.com/bunshopz/front-and-rear-sight-aluminium-aip-hicapa-hi-capa-5-1-tm-kjw-we,4,0,4,,Aktif,685000,529fd23e1d99b71bdbe2
+,1420864616,FRONT SIGHT STEEL FIBER EDGE HICAPA 2MM FOR COMPETITION,https://tokopedia.com/bunshopz/front-sight-steel-fiber-edge-hicapa-2mm-for-competition,0,0,0,,Nonaktif,350000,419491dd340ecbd004e0
+,1229599857,GEARBOX ARES M4 MOSFET EFCS REAR WIRE,https://tokopedia.com/bunshopz/gearbox-ares-m4-mosfet-efcs-rear-wire,1,0,1,,Aktif,3100000,790420d7ba59e45c8346
+,329117620,GEARSET GEAR SET AXELO CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-axelo-choho,15,0,15,,Aktif,123900,a5508ac2dfaf9d8e9856
+,329119183,GEARSET GEAR SET BAJAJ PULSAR 135 CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-bajaj-pulsar-135-choho,15,0,15,,Aktif,152900,f1dc809f7ddc18be1f6d
+,329120988,GEARSET GEAR SET CS1 CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-cs1-choho,130,0,130,,Aktif,142900,3543fa11bbb4164f4cb7
+,329120201,GEARSET GEAR SET JUPITER CRIPTON CRYPTON CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-jupiter-cripton-crypton-choho,30,0,30,,Aktif,112900,d2d2167ce092b7fc8b5a
+,329124222,GEARSET GEAR SET JUPITER MX,https://tokopedia.com/bunshopz/gearset-gear-set-jupiter-mx,15,0,15,,Aktif,127900,a9b1872aac6562f3466e
+,329123704,GEARSET GEAR SET JUPITER MX 2010,https://tokopedia.com/bunshopz/gearset-gear-set-jupiter-mx-2010,15,0,15,,Aktif,127900,5889b758b3f6b6dc4f70
+,329831033,GEARSET GEAR SET JUPITER MX ORI YGP,https://tokopedia.com/bunshopz/gearset-gear-set-jupiter-mx-ori-ygp,15,0,15,,Aktif,147900,855e993f63021d829936
+,329124673,GEARSET GEAR SET JUPITER Z1 Z 1 CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-jupiter-z1-z-1-choho,15,0,15,,Aktif,123900,bb21098265e3088c9dd5
+,329125794,GEARSET GEAR SET KARISMA CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-karisma-choho,15,0,15,,Aktif,117900,bd07ad17cc9085c577aa
+,329147442,GEARSET GEAR SET KAZE CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-kaze-choho,15,0,15,,Aktif,123900,34c272a54c1078dc9a47
+,329154287,GEARSET GEAR SET NINJA R CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-ninja-r-choho,0,0,15,,Aktif,143900,3a65ff0b3a3c8feca1ca
+,329159978,GEARSET GEAR SET NINJA RR CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-ninja-rr-choho-1,15,0,15,,Aktif,223900,5f37010291fb9dc808f9
+,329159887,GEARSET GEAR SET NINJA RR CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-ninja-rr-choho,15,0,15,,Aktif,223900,0a2bcf7bd4f4b1a38735
+,329827934,GEARSET GEAR SET SATRIA CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-satria-choho,15,0,15,,Aktif,143900,e4b414bc03c8c53a9ad6
+,329828268,GEARSET GEAR SET SATRIA F150 CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-satria-f150-choho,15,0,15,,Aktif,147900,5dc963e28d07c21d83a8
+,329828571,GEARSET GEAR SET SCORPIO Z CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-scorpio-z-choho,11,0,11,,Aktif,163900,cb2806a19fe03388324f
+,329828961,GEARSET GEAR SET SHOGUN CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-shogun-choho,0,0,14,,Aktif,113900,d916145497c70c827c48
+,329829227,GEARSET GEAR SET SUPRA CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-supra-choho,15,0,15,,Aktif,117900,4162ec467dacca604ec5
+,329829731,GEARSET GEAR SET THUNDER 125 CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-thunder-125-choho,15,0,15,,Aktif,157900,c29751da9abc50c9ea4c
+,329830282,GEARSET GEAR SET VEGA R NEW CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-vega-r-new-choho,15,0,15,,Aktif,113900,62154222e6fc19724f21
+,329830667,GEARSET GEAR SET VEGA ZR ORI YGP,https://tokopedia.com/bunshopz/gearset-gear-set-vega-zr-ori-ygp,15,0,15,,Aktif,153900,6ad1619968bcb2c0eb1a
+,329831645,GEARSET GEAR SET VIXION CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-vixion-choho,13,0,13,,Aktif,143900,b503cf8655a976406b7f
+,329832003,GEARSET GEAR SET VIXION NEW CHOHO,https://tokopedia.com/bunshopz/gearset-gear-set-vixion-new-choho,14,0,14,,Aktif,143900,bd9fc59c77297f709f81
+,572687397,GUARDER ENHANCED LOADING NOZZLE VALVE SET G17 G19 G34 G SERIES TM KJW,https://tokopedia.com/bunshopz/guarder-enhanced-loading-nozzle-valve-set-g17-g19-g34-g-series-tm-kjw,1,0,1,,Nonaktif,435000,c76754eaff88f2469cb8
+,513223261,GUARDER LIGHT WEIGHT NOZZLE HOUSING G17 G 17 22 34 TM KJW WE,https://tokopedia.com/bunshopz/guarder-light-weight-nozzle-housing-g17-g-17-22-34-tm-kjw-we,2,0,2,,Aktif,325000,d53724fc9af411c87bd3
+,572638930,GUARDER STEEL NO. TAG SET STEEL G17 MARUI,https://tokopedia.com/bunshopz/guarder-steel-no-tag-set-steel-g17-marui,1,0,1,,Nonaktif,185000,f31267ae1e91d74a8d28
+,671518347,GUARDER STEEL RAIL MOUNT TM G 17 G17,https://tokopedia.com/bunshopz/guarder-steel-rail-mount-tm-g-17-g17,1,0,1,,Aktif,750000,e96bf46decff0ee36767
+,572685481,GUARDER TRIGGER RIDGED RED MARUI G17 G18C G19 G34 TM KJW WE,https://tokopedia.com/bunshopz/guarder-trigger-ridged-red-marui-g17-g18c-g19-g34-tm-kjw-we,2,0,2,,Aktif,230000,1c957ba81511f2e993f7
+,572680948,GUNSMODIFY GM REINFORCED TRIGGER BAR GOLD MARUI G17 G34 TM KJW WE,https://tokopedia.com/bunshopz/gunsmodify-gm-reinforced-trigger-bar-gold-marui-g17-g34-tm-kjw-we,0,0,0,,Nonaktif,350000,4044910c2b3ce918f46e
+,531110978,GUNSMODIFY RECOIL ROD 125% G17 22 34 MARUI TM KJW WE,https://tokopedia.com/bunshopz/gunsmodify-recoil-rod-125-g17-22-34-marui-tm-kjw-we,1,0,1,,Nonaktif,250000,6a682d6f4e640798d23a
+,515097134,GUNSMODIFY SAI ALUMINIUM CNC TRIGGER G17 G 17 19 34 TM KJW WE,https://tokopedia.com/bunshopz/gunsmodify-sai-aluminium-cnc-trigger-g17-g-17-19-34-tm-kjw-we,0,0,0,,Nonaktif,535000,77c554c655d9af369bb3
+,618889660,Guarder No Number Tag Blank G17 22 34 TM KJW WE,https://tokopedia.com/bunshopz/guarder-no-number-tag-blank-g17-22-34-tm-kjw-we,1,0,1,,Nonaktif,180000,706987fd6c938869182a
+,618890732,Guarder Smooth Trigger Red TM Marui G18C 22 34 KJW,https://tokopedia.com/bunshopz/guarder-smooth-trigger-red-tm-marui-g18c-22-34-kjw,2,0,2,,Aktif,235000,0f5316550c0143fcea56
+,483925249,Gunsmodify 150% RECOIL SPRING dan 180% HAMMER SPRING G 17 19 34 TM WE,https://tokopedia.com/bunshopz/gunsmodify-150-recoil-spring-dan-180-hammer-spring-g-17-19-34-tm-we,0,0,0,,Nonaktif,150000,bea616584fe00a1ad5e1
+,566835391,HIGH BULLET OUTPUT VALVE NEO-R for TM Hi-Capa 1911 GBB,https://tokopedia.com/bunshopz/high-bullet-output-valve-neo-r-for-tm-hi-capa-1911-gbb,3,0,3,,Nonaktif,450000,f364c326077b69c74542
+,566848232,HIGH FLOW VALVE OUTPUT AMG M9 M9F TM KJW WE,https://tokopedia.com/bunshopz/high-flow-valve-output-amg-m9-m9f-tm-kjw-we,3,0,3,,Nonaktif,395000,7bd214c5f0a816df2212
+,1420866661,HOP UP AEG MAPLE LEAF 50 DEGREE HIJAU,https://tokopedia.com/bunshopz/hop-up-aeg-maple-leaf-50-degree-hijau,2,0,2,,Aktif,195000,6bd00bf0a6820d00b584
+,1420865803,HOP UP AEG MAPLE LEAF 60 DEGREE KUNING,https://tokopedia.com/bunshopz/hop-up-aeg-maple-leaf-60-degree-kuning,5,0,5,,Aktif,195000,cb8a16ba8034645f4b73
+,515102369,HOP UP CHAMBER SET MAPLE LEAF G SERIES G17 G 17 18C 19 34 MARUI KJW WE,https://tokopedia.com/bunshopz/hop-up-chamber-set-maple-leaf-g-series-g17-g-17-18c-19-34-marui-kjw-we,1,0,1,,Aktif,420000,29984523d59caca5eadd
+,1420863141,HOP UP MAPLE LEAF 60 DEGREE KUNING GBB HICAPA HI-CAPA G17 TM KJW WE,https://tokopedia.com/bunshopz/hop-up-maple-leaf-60-degree-kuning-gbb-hicapa-hi-capa-g17-tm-kjw-we,5,0,5,,Aktif,195000,3407acf7ed1e7b103739
+,671673615,HOP UP WHEEL MAPLE LEAF TM G17 G 17 SERIES,https://tokopedia.com/bunshopz/hop-up-wheel-maple-leaf-tm-g17-g-17-series,0,0,0,,Nonaktif,150000,e1cc2d42704356e71809
+,671508919,HOP UP WHEEL MAPLE LEAF TM WE KJW HI-CAPA HICAPA,https://tokopedia.com/bunshopz/hop-up-wheel-maple-leaf-tm-we-kjw-hi-capa-hicapa,1,0,1,,Nonaktif,145000,aaeb1192ae84d2a51e40
+,566838607,INJECTION VALVE MAG TM KJW WE HICAPA G17 5mm,https://tokopedia.com/bunshopz/injection-valve-mag-tm-kjw-we-hicapa-g17-5mm,3,0,3,,Nonaktif,240000,a28cd5762e8c8c765dcb
+,566842069,INNER BARREL INBAR MAPLE LEAF 11.3 HICAPA 5.1 G34 6.01,https://tokopedia.com/bunshopz/inner-barrel-inbar-maple-leaf-11-3-hicapa-5-1-g34-6-01,1,0,1,,Aktif,445000,2da133969b56b9a07495
+,513774894,"INNER BARREL INBAR MAPLE LEAF 6.01 6"" INCH 138MM WITH DIAMOND HOP UP",https://tokopedia.com/bunshopz/inner-barrel-inbar-maple-leaf-6-01-6-inch-138mm-with-diamond-hop-up,1,0,1,,Nonaktif,495000,89518e29f3366c56c4cd
+,498117268,INNER BARREL INBAR NINEBALL NINE BALL TIGHTBORE 6.00 600 HI-CAPA 5.1,https://tokopedia.com/bunshopz/inner-barrel-inbar-nineball-nine-ball-tightbore-6-00-600-hi-capa-5-1,1,0,1,,Nonaktif,495000,fa33c264b9b8de7098e7
+,376691963,KAKI 4 EMPAT DAN LAWAN KAKI RUMAH KOPLING JUPITER MX TAHUN 2007,https://tokopedia.com/bunshopz/kaki-4-empat-dan-lawan-kaki-rumah-kopling-jupiter-mx-tahun-2007,29,0,29,,Aktif,57900,5575ef4651b7cb654ad3
+,376691235,KAKI 4 EMPAT DAN LAWAN RUMAH KOPLING CLUTCH GL100 GL PRO YASUHO,https://tokopedia.com/bunshopz/kaki-4-empat-dan-lawan-rumah-kopling-clutch-gl100-gl-pro-yasuho,29,0,29,,Aktif,47900,b473a25f1e72bf7ded35
+,376689528,KAKI 4 EMPAT DAN LAWAN RUMAH KOPLING KLX 150 YASUHO,https://tokopedia.com/bunshopz/kaki-4-empat-dan-lawan-rumah-kopling-klx-150-yasuho,40,0,40,,Aktif,63900,295191788ade204333a1
+,376692886,KAKI 4 EMPAT DAN LAWAN RUMAH KOPLING RXK RX KING ORISINIL YAMAHA YGP,https://tokopedia.com/bunshopz/kaki-4-empat-dan-lawan-rumah-kopling-rxk-rx-king-orisinil-yamaha-ygp,30,0,30,,Aktif,157900,facdc5997014795cdd5b
+,376692607,KAKI 4 EMPAT DAN LAWAN RUMAH KOPLING RXK RX KING TOKAIDO,https://tokopedia.com/bunshopz/kaki-4-empat-dan-lawan-rumah-kopling-rxk-rx-king-tokaido,40,0,40,,Aktif,47900,53defe886034cf30673f
+,376693227,KAKI 4 EMPAT DAN LAWAN RUMAH KOPLING SATRIA FU KARBU F150 FI YASUHO,https://tokopedia.com/bunshopz/kaki-4-empat-dan-lawan-rumah-kopling-satria-fu-karbu-f150-fi-yasuho,30,0,30,,Nonaktif,47900,e4d26769e34cd44ce59c
+,376690914,KAKI 4 EMPAT DAN LAWAN RUMAH KOPLING SHOGUN 125 YASUHO,https://tokopedia.com/bunshopz/kaki-4-empat-dan-lawan-rumah-kopling-shogun-125-yasuho,37,0,37,,Aktif,57900,1d6e9666dbbbe9412473
+,376694374,KAKI 4 EMPAT DAN LAWAN RUMAH KOPLING SUPRA GRAND YASUHO,https://tokopedia.com/bunshopz/kaki-4-empat-dan-lawan-rumah-kopling-supra-grand-yasuho,40,0,40,,Aktif,53900,eba25f67c6fccdd6bb13
+,376694052,KAKI 4 EMPAT DAN LAWAN RUMAH KOPLING SUPRA TOKAIDO,https://tokopedia.com/bunshopz/kaki-4-empat-dan-lawan-rumah-kopling-supra-tokaido,40,0,40,,Aktif,47900,f10e084caa845e3d5319
+,531105517,KARET HOP UP RUBBER A PLUS GBB HI CAPA G SERIES TM KJW WE,https://tokopedia.com/bunshopz/karet-hop-up-rubber-a-plus-gbb-hi-capa-g-series-tm-kjw-we,1,0,1,,Nonaktif,215000,3f86ca329bd9cfb4e7dd
+,531105178,KARET HOP UP RUBBER AIP GBB HICAPA HI-CAPA CAPA TM WE KJW,https://tokopedia.com/bunshopz/karet-hop-up-rubber-aip-gbb-hicapa-hi-capa-capa-tm-we-kjw,1,0,1,,Nonaktif,135000,ae87830148a53e141457
+,531104749,KARET HOP UP RUBBER BUCKING AIP GBB VSR G17 18 19 34 TM WE KJW,https://tokopedia.com/bunshopz/karet-hop-up-rubber-bucking-aip-gbb-vsr-g17-18-19-34-tm-we-kjw,1,0,1,,Nonaktif,135000,e00be2f57f6bd927adc7
+,671479531,KARET HOP UP RUBBER MAPLE LEAF AUTOBOT 50 DEGREE G17 HI CAPA TM,https://tokopedia.com/bunshopz/karet-hop-up-rubber-maple-leaf-autobot-50-degree-g17-hi-capa-tm,0,0,0,,Nonaktif,190000,945b45211a2e6f62061a
+,531105876,KARET HOP UP RUBBER MAPLE LEAF AUTOBOT 60 DEGREE G17 HI CAPA TM,https://tokopedia.com/bunshopz/karet-hop-up-rubber-maple-leaf-autobot-60-degree-g17-hi-capa-tm,4,0,4,,Nonaktif,195000,793282c20524f3fec8ce
+,531106221,KARET HOP UP RUBBER MAPLE LEAF AUTOBOT 70 DEGREE GBB GBBR VSR,https://tokopedia.com/bunshopz/karet-hop-up-rubber-maple-leaf-autobot-70-degree-gbb-gbbr-vsr,0,0,0,,Nonaktif,195000,7aa3ef152a7ba3fa9c1b
+,531107970,KARET HOP UP RUBBER MAPLE LEAF AUTOBOT 75 DEGREE GBB GBBR VSR HI CAP,https://tokopedia.com/bunshopz/karet-hop-up-rubber-maple-leaf-autobot-75-degree-gbb-gbbr-vsr-hi-cap,1,0,1,,Nonaktif,185000,89afd5149d10f558afcd
+,481164402,KRUK AS ASSY JUPITER Z ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-assy-jupiter-z-ori-yamaha-ygp,12,0,12,,Aktif,590000,9b84a5fe90e18ff04201
+,480580764,KRUK AS ASSY JUPITER Z1 Z 1 ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-assy-jupiter-z1-z-1-ori-yamaha-ygp,12,0,12,,Aktif,440000,2d330541f7818e81487d
+,480582895,KRUK AS ASSY MIO J ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-assy-mio-j-ori-yamaha-ygp,12,0,12,,Aktif,487900,5dee1aedcc65b4987653
+,480585430,KRUK AS ASSY MIO ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-assy-mio-ori-yamaha-ygp,12,0,12,,Aktif,550000,ded964d9e29632061420
+,480581880,KRUK AS ASSY NMAX N MAX ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-assy-nmax-n-max-ori-yamaha-ygp,12,0,12,,Aktif,680000,3706154b4508bc3e96fc
+,480584207,KRUK AS ASSY RX KING RXKING ORI YAMAHA,https://tokopedia.com/bunshopz/kruk-as-assy-rx-king-rxking-ori-yamaha,12,0,12,,Aktif,875000,db796eaf0b3687351b7f
+,480581385,KRUK AS ASSY VEGA ZR JUPITER Z NEW 2010 ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-assy-vega-zr-jupiter-z-new-2010-ori-yamaha-ygp,11,0,11,,Aktif,430000,5585273d9410b3acd80e
+,480583401,KRUK AS ASSY XEON ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-assy-xeon-ori-yamaha-ygp,12,0,12,,Aktif,550000,7c5f4f7dd504866fe283
+,480584139,KRUK AS ASSY XEON RC ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-assy-xeon-rc-ori-yamaha-ygp,12,0,12,,Aktif,527900,99aaae76cf9e8802cf33
+,481165017,KRUK AS BANDUL ASSY RODA JUPITER Z1 ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-bandul-assy-roda-jupiter-z1-ori-yamaha-ygp,10,0,10,,Aktif,440000,b1ba8a075492936c9bec
+,481167217,KRUK AS BANDUL RODA ASSY MIO ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-bandul-roda-assy-mio-ori-yamaha-ygp,10,0,10,,Aktif,550000,71679feb2b04fd064a04
+,481166610,KRUK AS BANDUL RODA ASSY RX KING RXKING ORI YAMAHA,https://tokopedia.com/bunshopz/kruk-as-bandul-roda-assy-rx-king-rxking-ori-yamaha,10,0,10,,Aktif,875000,1d9db45a16b03cd1092c
+,481165321,KRUK AS BANDUL RODA ASSY VEGA ZR JUPITER Z NEW 2010 ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-bandul-roda-assy-vega-zr-jupiter-z-new-2010-ori-yamaha-ygp,5,0,5,,Aktif,430000,8499f06a5e80fb8939ac
+,481166404,KRUK AS BANDUL RODA ASSY XEON ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-bandul-roda-assy-xeon-ori-yamaha-ygp,10,0,10,,Aktif,547900,8e9531be1460bb5e312d
+,481166895,KRUK AS BANDUL RODA ASSY XEON RC ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-bandul-roda-assy-xeon-rc-ori-yamaha-ygp,10,0,10,,Aktif,527900,4b5a7e3bd7a0464e270a
+,481166079,KRUK BANDUL AS RODA ASSY MIO J ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-bandul-as-roda-assy-mio-j-ori-yamaha-ygp,12,0,12,,Aktif,490000,41eee2ed457544b486b9
+,481165743,KRUK BANDUL AS RODA ASSY NMAX N MAX ORI YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-bandul-as-roda-assy-nmax-n-max-ori-yamaha-ygp,12,0,12,,Aktif,678900,53db3f028fb001c37349
+,480576331,KUNCI KONTAK KOMPLIT TANK JOK CS1 CS 1,https://tokopedia.com/bunshopz/kunci-kontak-komplit-tank-jok-cs1-cs-1,24,0,24,,Aktif,115000,5aad69c5eb0114841b89
+,480580289,Kruk As Assy Jupiter Z Original YAMAHA YGP,https://tokopedia.com/bunshopz/kruk-as-assy-jupiter-z-original-yamaha-ygp,12,0,12,,Aktif,590000,ad73b10931e66cdb7cab
+,473555267,LAMPU STOP LAMP DAN DUDUKAN LAMPU STOP RX KING RXK ORI YGP,https://tokopedia.com/bunshopz/lampu-stop-lamp-dan-dudukan-lampu-stop-rx-king-rxk-ori-ygp,100,0,100,,Aktif,250000,9968ef090481888993b7
+,473556789,LAMPU STOP LAMP RX KING RXK ORI YGP YAMAHA,https://tokopedia.com/bunshopz/lampu-stop-lamp-rx-king-rxk-ori-ygp-yamaha,99,0,99,,Aktif,210000,043dc03ce0c8c40a60c0
+,536793158,LOADING NOZZLE AIP SET G17 G19 G23 G26 SERIES TM WE KJW,https://tokopedia.com/bunshopz/loading-nozzle-aip-set-g17-g19-g23-g26-series-tm-we-kjw,1,0,1,,Nonaktif,225000,8d93cd2e92920f0dcd34
+,1190824202,LOADING NOZZLE HICAPA GUARDER HI-CAPA SET TM KJW WE,https://tokopedia.com/bunshopz/loading-nozzle-hicapa-guarder-hi-capa-set-tm-kjw-we,3,0,3,,Aktif,450000,79abd1f2c6b21bbf5ba6
+,618889073,LOADING NOZZLE ONLY GUARDER TM MARUI HICAPA HI CAPA HI-CAPA KJW WE,https://tokopedia.com/bunshopz/loading-nozzle-only-guarder-tm-marui-hicapa-hi-capa-hi-capa-kjw-we,3,0,3,,Aktif,375000,eed1e148b890a867dd90
+,618886780,LOADING NOZZLE SET AIP MARUI HICAPA HI-CAPA HI CAPA TM KJW WE,https://tokopedia.com/bunshopz/loading-nozzle-set-aip-marui-hicapa-hi-capa-hi-capa-tm-kjw-we,1,0,1,,Nonaktif,235000,63dc50d107af1a9ab5ec
+,490392649,LOADING NOZZLE SET HICAPA HI-CAPA AM AIRSOFT MASTERPIECE,https://tokopedia.com/bunshopz/loading-nozzle-set-hicapa-hi-capa-am-airsoft-masterpiece,0,0,0,,Nonaktif,250000,beb14f992fbf81bcf0ab
+,515100664,LOADING NOZZLE SET ORIGINAL TM G17 SERIES G 17 19 22 34 MARUI KJW WE,https://tokopedia.com/bunshopz/loading-nozzle-set-original-tm-g17-series-g-17-19-22-34-marui-kjw-we,1,0,1,,Nonaktif,185000,a15b11bf5272ce0022cf
+,531110550,LOADING NOZZLE SPRING 120% G17 19 34 TM KJW WE,https://tokopedia.com/bunshopz/loading-nozzle-spring-120-g17-19-34-tm-kjw-we,0,0,0,,Nonaktif,42000,6eee415bbbd165699b3b
+,531110755,LOADING NOZZLE SPRING 120%HI CAPA HI-CAPA TM KJW WE,https://tokopedia.com/bunshopz/loading-nozzle-spring-120-hi-capa-hi-capa-tm-kjw-we,0,0,0,,Nonaktif,42000,a333619c782ca9a261bd
+,1190817422,LOADING NOZZLE SPRING 140% HICAPA HI-CAPA AIP,https://tokopedia.com/bunshopz/loading-nozzle-spring-140-hicapa-hi-capa-aip,1,0,1,,Nonaktif,50000,917a746c70d5e5e15dbf
+,536783065,LOADING NOZZLE SPRING NP1 COWCOW 180% HICAPA HI-CAPA,https://tokopedia.com/bunshopz/loading-nozzle-spring-np1-cowcow-180-hicapa-hi-capa,4,0,4,,Aktif,110000,d1358d22edc97c414fb1
+,623228937,Loading Muzzle AIP Tokyo Marui TM G17 26 34 WE KJW,https://tokopedia.com/bunshopz/loading-muzzle-aip-tokyo-marui-tm-g17-26-34-we-kjw,1,0,1,,Nonaktif,235000,c36e1b11bb4c0aaab137
+,1424866388,MAG PTS EPM 1 MIDCAP AEG M4,https://tokopedia.com/bunshopz/mag-pts-epm-1-midcap-aeg-m4,1,0,1,,Aktif,725000,eb474cbfdc31508d29dd
+,490385449,MAGAZINE MAG CATCH GUARDER STEEL TM G17 18 26 SERIES,https://tokopedia.com/bunshopz/magazine-mag-catch-guarder-steel-tm-g17-18-26-series,999999,0,999999,2,Nonaktif,180000,43818478fe223d2af541
+,498182009,MAGAZINE MAG LIP GUARDER MARUI TM WE KJW G SERIES G17 18 19,https://tokopedia.com/bunshopz/magazine-mag-lip-guarder-marui-tm-we-kjw-g-series-g17-18-19,1,0,1,,Nonaktif,130000,49639dc53b053198f6a0
+,642446915,MAGAZINE MAG LIP GUARDER MARUI TM WE KJW HI-CAPA HICAPA,https://tokopedia.com/bunshopz/magazine-mag-lip-guarder-marui-tm-we-kjw-hi-capa-hicapa,0,0,0,,Nonaktif,130000,6ec661dbf8e695721b84
+,729317694,MAGAZINE MAG LIP PROWIN HICAPA HI-CAPA TM KJW WE,https://tokopedia.com/bunshopz/magazine-mag-lip-prowin-hicapa-hi-capa-tm-kjw-we,0,0,0,,Nonaktif,132000,4947a1cd02c6fb6feef1
+,1220503724,MAGWELL HICAPA HI-CAPA 4.3 5.1 3D PRINT,https://tokopedia.com/bunshopz/magwell-hicapa-hi-capa-4-3-5-1-3d-print,999,0,999,,Nonaktif,85000,3a26d234cc906bd50f8c
+,531108357,MAPLE LEAF HOP UP CHAMBER SET HI CAPA HI-CAPA CAPA TM KJW WE GBB,https://tokopedia.com/bunshopz/maple-leaf-hop-up-chamber-set-hi-capa-hi-capa-capa-tm-kjw-we-gbb,3,0,3,,Aktif,420000,acf8607ce8882db24425
+,572635851,MAPLE LEAF INNER BARREL 6.01 97 MM HICAPA 4.3 G17 TM,https://tokopedia.com/bunshopz/maple-leaf-inner-barrel-6-01-97-mm-hicapa-4-3-g17-tm,2,0,2,,Nonaktif,445000,fa5a9aa8db0fc7db3adc
+,731900013,MOTOR DINAMO GUARDER MERAH HIGH TORQUE,https://tokopedia.com/bunshopz/motor-dinamo-guarder-merah-high-torque,0,0,0,,Nonaktif,750000,609a9be2898d5bdc3465
+,1121029194,Mag pouch IPSC balap tembak reaksi Hicapa Glock 9mm 3D printed - Putih,https://www.tokopedia.com/bunshopz/mag-pouch-ipsc-balap-tembak-reaksi-hicapa-glock-9mm-3d-printed-putih,1000,0,1000,,Nonaktif,75000,2cd763c0075ca94f2c93
+,1121029194,Mag pouch IPSC balap tembak reaksi Hicapa Glock 9mm 3D printed - Hitam,https://www.tokopedia.com/bunshopz/mag-pouch-ipsc-balap-tembak-reaksi-hicapa-glock-9mm-3d-printed-hitam,995,0,995,,Nonaktif,75000,110eec6c2efe72e136c8
+,1121029194,Mag pouch IPSC balap tembak reaksi Hicapa Glock 9mm 3D printed - Orange,https://www.tokopedia.com/bunshopz/mag-pouch-ipsc-balap-tembak-reaksi-hicapa-glock-9mm-3d-printed-orange,1000,0,1000,,Nonaktif,75000,201b1a98cd3d987b9ff8
+,483925491,Magazine Bumper Magbase base cover G 17 18 19 26 27 34 TM WE KJW,https://tokopedia.com/bunshopz/magazine-bumper-magbase-base-cover-g-17-18-19-26-27-34-tm-we-kjw,4,0,4,,Nonaktif,160000,d3323023267aa4cab653
+,1128962661,Magcatch Hicapa Magazine Catch AIP Hi-capa TM KJW WE,https://tokopedia.com/bunshopz/magcatch-hicapa-magazine-catch-aip-hi-capa-tm-kjw-we,1,0,1,,Nonaktif,550000,e4f5b86a218c0efe4ec1
+,1031670912,NINEBALL MAGAZINE LIP SEAL GASKET UNGU HICAPA HI-CAPA P226 TM KJW WE,https://tokopedia.com/bunshopz/nineball-magazine-lip-seal-gasket-ungu-hicapa-hi-capa-p226-tm-kjw-we,0,0,0,,Nonaktif,250000,762757b01dccc4af0432
+,472579700,NOKEN AS CS1 CS 1,https://tokopedia.com/bunshopz/noken-as-cs1-cs-1,100,0,100,,Aktif,105000,ba74abd8dbdf44528a16
+,472589882,NOKEN AS DAN PLATK PELATUK KLEP CS1 CS 1,https://tokopedia.com/bunshopz/noken-as-dan-platk-pelatuk-klep-cs1-cs-1,100,0,100,,Aktif,140000,f58e2e555b30f49ad816
+,376696739,PER KOPLING CLUTCH BYSON BISON KAWAHARA,https://tokopedia.com/bunshopz/per-kopling-clutch-byson-bison-kawahara,30,0,30,,Aktif,63900,240396fa026157e57cd9
+,376697758,PER KOPLING CLUTCH KLX 150 KAWAHARA,https://tokopedia.com/bunshopz/per-kopling-clutch-klx-150-kawahara,30,0,30,,Aktif,65000,e14bb11b89f7b4863fef
+,376696904,PER KOPLING CLUTCH SATRIA FU F150 CLD,https://tokopedia.com/bunshopz/per-kopling-clutch-satria-fu-f150-cld,30,0,30,,Aktif,70000,37f7cbcdb0b572d12b56
+,376697132,PER KOPLING CLUTCH TDR KARISMA,https://tokopedia.com/bunshopz/per-kopling-clutch-tdr-karisma,30,0,30,,Aktif,79900,0bbfc5bc6a213f499865
+,376698028,PER KOPLING CLUTCH TDR KLX 150,https://tokopedia.com/bunshopz/per-kopling-clutch-tdr-klx-150,30,0,30,,Aktif,76900,da51a1a2e59dfed4fa99
+,484579973,PIN BODY PIN TRIGGER PIN SET G17 G SERIES ORI TM MARUI,https://tokopedia.com/bunshopz/pin-body-pin-trigger-pin-set-g17-g-series-ori-tm-marui,1,0,1,,Nonaktif,65000,13e52b80d27e8fa8c3d6
+,566843480,PISTON HEAD JAGER CAVE HICAPA G17 19 34 13.5 MM GBB,https://tokopedia.com/bunshopz/piston-head-jager-cave-hicapa-g17-19-34-13-5-mm-gbb,1,0,1,,Aktif,275000,eb30539614de13213016
+,328904761,PISTON KIT ATAU SEHER FIM 2 55.25 JUPITER RACING,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-2-55-25-jupiter-racing,10,0,10,,Aktif,213900,1eeb42c2eb80b486c867
+,328904161,PISTON KIT ATAU SEHER FIM 65 65.5 66 66.5 67 67.5 PIN PEN 14,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-65-65-5-66-66-5-67-67-5-pin-pen-14,33,0,33,,Aktif,208900,50b26354a1516f616bbc
+,328899439,PISTON KIT ATAU SEHER FIM 65.6 66 66.5 67 67.5 68 PEN PIN 15,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-65-6-66-66-5-67-67-5-68-pen-pin-15,29,0,29,,Aktif,208900,dd143a7616e389e90b7a
+,328907425,PISTON KIT ATAU SEHER FIM 78 SONIC CB CBR HARIAN,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-78-sonic-cb-cbr-harian,98,0,98,,Aktif,129900,20e7b953941dea0f14c7
+,337548677,PISTON KIT ATAU SEHER FIM BEAT,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-beat,98,0,98,,Nonaktif,119000,77fbbc594569368e8dd2
+,460400126,PISTON KIT ATAU SEHER FIM46 FIM MIO KARBU HARIAN,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim46-fim-mio-karbu-harian,98,0,98,,Aktif,100000,75590901a702693b8e2a
+,460388194,PISTON KIT ATAU SEHER FIM74XB FIM VARIO BEAT SCOOPY OVERSIZE,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim74xb-fim-vario-beat-scoopy-oversize,98,0,98,,Aktif,118900,31d6a2ca969ccb6ebbe6
+,328895666,PISTON KIT ATAU SEHER FIM81 CBR LAMA,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim81-cbr-lama,99,0,99,,Aktif,190000,c3563f9c9d974fe37e51
+,460389467,PISTON KIT ATAU SEHER FIM81 FIM MIO CBR CBR150,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim81-fim-mio-cbr-cbr150,97,0,97,,Aktif,190000,a748695467e1064186e5
+,460392684,PISTON KIT ATAU SEHER FIM82 FIM CBR CB 150 R MENTAH PEN PIN 14,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim82-fim-cbr-cb-150-r-mentah-pen-pin-14,98,0,98,,Aktif,190000,57a54c6b0eeb7f9633b8
+,460398703,PISTON KIT ATAU SEHER FIM85 FIM 63.5 64 64.5 65 MENTAH PEN PIN 13,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim85-fim-63-5-64-64-5-65-mentah-pen-pin-13,91,0,91,,Aktif,190000,f263f92c76f09a3aef9d
+,460380152,PISTON KIT ATAU SEHER FIM91 FIM 65.5 66 66.6 67 67.5 68 PEN PIN 13,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim91-fim-65-5-66-66-6-67-67-5-68-pen-pin-13,86,0,86,,Aktif,208900,b492a1c7e9cc9847e180
+,479369716,PISTON KIT ATAU SEHER FIM93 SATRIA FU MODIF RUBAHAN MENTAH PIN 16,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim93-satria-fu-modif-rubahan-mentah-pin-16,100,0,100,,Nonaktif,195000,1433cc6a626399cc78ac
+,479370665,PISTON KIT ATAU SEHER FIM94 KAZE JUPITER Z RUBAHAN MODIF,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim94-kaze-jupiter-z-rubahan-modif,98,0,98,,Aktif,125000,a14947c8bb56815c023d
+,373520101,PISTON KIT ATAU SEHER JUPITER MX ORISINIL YAMAHA YGP,https://tokopedia.com/bunshopz/piston-kit-atau-seher-jupiter-mx-orisinil-yamaha-ygp,10,0,10,,Aktif,277900,cb90af32ca31bb86a92a
+,373520456,PISTON KIT ATAU SEHER JUPITER Z1 ORISINIL YAMAHA YGP,https://tokopedia.com/bunshopz/piston-kit-atau-seher-jupiter-z1-orisinil-yamaha-ygp,100,0,100,,Aktif,133900,0d04181d99418ba9f252
+,373524678,PISTON KIT ATAU SEHER MIO J X RIDE SOUL GT ORISINIL YAMAHA YGP,https://tokopedia.com/bunshopz/piston-kit-atau-seher-mio-j-x-ride-soul-gt-orisinil-yamaha-ygp,14,0,14,,Aktif,193900,d8d9bd4ee7f5976929f8
+,373523531,PISTON KIT ATAU SEHER MIO MIO SOUL FINO ORISINIL YAMAHA YGP,https://tokopedia.com/bunshopz/piston-kit-atau-seher-mio-mio-soul-fino-orisinil-yamaha-ygp,15,0,15,,Aktif,130000,30fd62168848ea294421
+,373516039,PISTON KIT ATAU SEHER TKRJ JUPITER Z 52.5,https://tokopedia.com/bunshopz/piston-kit-atau-seher-tkrj-jupiter-z-52-5,100,0,100,,Nonaktif,143900,312b486f5ecc7ca04dfe
+,373516572,PISTON KIT ATAU SEHER TKRJ MIO XB DIAMETER 52.5 PEN 15,https://tokopedia.com/bunshopz/piston-kit-atau-seher-tkrj-mio-xb-diameter-52-5-pen-15,100,0,100,,Nonaktif,143900,0506ae76fcad0e014755
+,373527636,PISTON KIT ATAU SEHER VEGA CRIPTON ORISINIL YAMAHA YGP,https://tokopedia.com/bunshopz/piston-kit-atau-seher-vega-cripton-orisinil-yamaha-ygp,15,0,15,,Aktif,178900,6afbd6680ca48600c535
+,373525216,PISTON KIT ATAU SEHER XEON ORISINIL YAMAHA YGP,https://tokopedia.com/bunshopz/piston-kit-atau-seher-xeon-orisinil-yamaha-ygp,15,0,15,,Aktif,203900,da22c8b93656624400a0
+,373515850,PISTON KIT TKRJ GLPRO GL PRO NEOTECH MEGAPRO,https://tokopedia.com/bunshopz/piston-kit-tkrj-glpro-gl-pro-neotech-megapro,100,0,100,,Nonaktif,117900,f23c8ba66bd69ca44610
+,615704480,PISTON LID HEAD GUARDER MARUI TM G17 19 22 34,https://tokopedia.com/bunshopz/piston-lid-head-guarder-marui-tm-g17-19-22-34,0,0,0,,Nonaktif,130000,fcae0ab3a7310eb8c83d
+,261154632,PIston Kit atau Seher FIM RX King,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-rx-king,52,0,52,,Aktif,121900,a7cbf99f79a5f89d25fa
+,472580467,PLATUK PELATUK KLEP CS1 CS 1,https://tokopedia.com/bunshopz/platuk-pelatuk-klep-cs1-cs-1,97,0,97,,Aktif,35000,00348cd40077bc6cbd83
+,453575735,PLATUK ROLLER MIO MILKUNI,https://tokopedia.com/bunshopz/platuk-roller-mio-milkuni,100,0,100,,Aktif,37900,f3bf0e9b7045671df89e
+,260975329,Piston Kit FIM Gl-pro atau seher Neotech/Megapro,https://tokopedia.com/bunshopz/piston-kit-fim-gl-pro-atau-seher-neotech-megapro,93,0,93,,Aktif,121900,ba5cf39864b094a8c2a1
+,260966724,Piston Kit FIM Yamaha Force one (F1ZR),https://tokopedia.com/bunshopz/piston-kit-fim-yamaha-force-one-f1zr,999999,0,999999,,Aktif,113900,301493caa9daf57a153c
+,260970076,Piston Kit FIM atau seher Grand/Legenda,https://tokopedia.com/bunshopz/piston-kit-fim-atau-seher-grand-legenda,99,0,99,,Aktif,125000,49a1b1f069d9d445b0af
+,261153803,Piston Kit Fim atau seher Grand Dan Legenda,https://tokopedia.com/bunshopz/piston-kit-fim-atau-seher-grand-dan-legenda,100,0,100,,Aktif,125000,943ae71f95ac16cdd85b
+,273954024,Piston Kit Ninja 250,https://tokopedia.com/bunshopz/piston-kit-ninja-250,6,0,6,,Aktif,473900,b2b67ed6b7d76fac934b
+,261145469,Piston Kit atau Seher FIM Honda Beat ESP,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-honda-beat-esp,0,0,97,,Aktif,109000,4d422f3c223819179813
+,261145157,Piston Kit atau Seher FIM Modif pin pen 13 14 15,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-modif-pin-pen-13-14-15,115,0,115,,Aktif,153900,d45ad6e6ebcc801c858e
+,273955382,Piston Kit atau Seher FIM Satria FU Racing,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-satria-fu-racing,5,0,5,,Aktif,263900,d4567f50ff70265934bf
+,273962861,Piston Kit atau seher FIM Bison,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-bison,98,0,98,,Aktif,135000,88f82f515284ed8f1ccd
+,260971088,Piston Kit atau seher FIM Honda Vario,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-honda-vario,100,0,100,,Aktif,99999,cc60485d9365f6ff187c
+,259205605,Piston Kit atau seher FIM KLX Bore up,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-klx-bore-up,86,0,86,,Aktif,127900,ebaaa483d6f54445f023
+,259207254,Piston Kit atau seher FIM Karisma/Supra x 125,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-karisma-supra-x-125,95,0,95,,Aktif,118900,7fe87624db8cf5fdfb39
+,260968182,Piston Kit atau seher FIM Mio XB 130cc,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-mio-xb-130cc,999998,0,999998,,Aktif,115900,e724f0215e807e53e2d1
+,260968635,Piston Kit atau seher FIM Mio XXB 150cc,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-mio-xxb-150cc,999999,0,999999,,Aktif,123900,aae5d5132828e58db773
+,259208597,Piston Kit atau seher FIM Satria FU,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-satria-fu,97,0,97,,Aktif,115900,177e9e167fd861b874d1
+,260974288,Piston Kit atau seher FIM Tiger,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-tiger,75,0,75,,Aktif,113900,d22b4b60e87db43c30dd
+,273963853,Piston Kit atau seher FIM Vega ZR,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-vega-zr-1,100,0,100,,Aktif,108900,5f0f2f556a0371ce4309
+,261152482,Piston Kit atau seher FIM Vega ZR,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-vega-zr,100,0,100,,Aktif,108900,a77b186880e91e8dff32
+,261153155,Piston Kit atau seher FIM Vixion atau MX,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-vixion-atau-mx,0,0,0,,Aktif,133900,87ed7eb2c7f4737caca5
+,260967191,Piston Kit atau seher FIM Yamaha Jupiter Z,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-yamaha-jupiter-z,999999,0,999999,,Aktif,108900,e1d3b6983025fc980b98
+,261054183,Piston Kit atau seher FIM sonic,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-sonic,100,0,100,,Aktif,189900,85f00191718799e731cf
+,261146058,Piston kit atau Seher FIM Smash,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-smash,100,0,100,,Aktif,128900,53d049f4be28177fc2a9
+,261150246,Piston kit atau seher FIM Honda Vario 150cc,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-honda-vario-150cc,0,0,100,,Aktif,128900,9f22560659c7b304104b
+,261142979,Piston kit atau seher FIM Honda Vario XB 130c,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-honda-vario-xb-130c,99,0,99,,Aktif,123900,644203787c29a39b08bc
+,273958817,Piston kit atau seher FIM Jupiter Racing,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-jupiter-racing,9,0,9,,Aktif,248900,f69054f59d97a8454a3a
+,261155311,Piston kit atau seher FIM Jupiter XB 130cc,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-jupiter-xb-130cc,95,0,95,,Aktif,122500,723d9feb48a64df4f88e
+,273963655,Piston kit atau seher FIM Kaze,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-kaze,100,0,100,,Aktif,103900,8b353df2619d86e6cf2d
+,261151571,Piston kit atau seher FIM Verza / Megapro New,https://tokopedia.com/bunshopz/piston-kit-atau-seher-fim-verza-megapro-new,100,0,100,,Aktif,133900,ca9c0a4ced17c40b845f
+,273964025,Piston kit atau seher Jupiter MX,https://tokopedia.com/bunshopz/piston-kit-atau-seher-jupiter-mx,96,0,96,,Aktif,118900,d416a2b0138eeabdf107
+,261053722,Piston kit atau seher Vario XB 130cc,https://tokopedia.com/bunshopz/piston-kit-atau-seher-vario-xb-130cc,100,0,100,,Aktif,116900,94983300a54e750bba7d
+,273961551,Piston kit atau seher kompresi tinggi Supra x125,https://tokopedia.com/bunshopz/piston-kit-atau-seher-kompresi-tinggi-supra-x125,10,0,10,,Aktif,238900,5b65501cc13e79728d6c
+,572691549,REAR SIGHT STEEL T1G COWCOW G17 G18 G19 G34 MARUI TM KJW WE,https://tokopedia.com/bunshopz/rear-sight-steel-t1g-cowcow-g17-g18-g19-g34-marui-tm-kjw-we,2,0,2,,Nonaktif,372500,14de5779864a4048f20d
+,1129059970,RECOIL GUIDE PLUG 4.3 HICAPA HI-CAPA HI CAPA AIRSOFT MASTERPIECE AM,https://tokopedia.com/bunshopz/recoil-guide-plug-4-3-hicapa-hi-capa-hi-capa-airsoft-masterpiece-am,0,0,0,,Nonaktif,200000,136ef221d560cbbb0c6f
+,531111587,RECOIL SHOCK BUFFER AIP HICAPA HI CAPA HI-CAPA TM KJW WE,https://tokopedia.com/bunshopz/recoil-shock-buffer-aip-hicapa-hi-capa-hi-capa-tm-kjw-we,1,0,1,,Aktif,120000,032f3c99866d3205bd47
+,499288458,RECOIL SPRING 150% DAN HAMMER SPRING 180% G17 G19 G34 TM KJW WE,https://tokopedia.com/bunshopz/recoil-spring-150-dan-hammer-spring-180-g17-g19-g34-tm-kjw-we,4,0,4,,Nonaktif,150000,d9e0fe01c0178fd51001
+,484580742,RECOIL SPRING GUIDE ROD G17 G SERIES ORI TM MARUI,https://tokopedia.com/bunshopz/recoil-spring-guide-rod-g17-g-series-ori-tm-marui,1,0,1,,Nonaktif,60000,0a7c8eda3b74dffbb7d9
+,531111247,SEAR SPRING AM PROHANDGUN HI CAPA CAPA HICAPA TM KJW WE,https://tokopedia.com/bunshopz/sear-spring-am-prohandgun-hi-capa-capa-hicapa-tm-kjw-we,1,0,1,,Aktif,185000,ad2302f098c6197d6577
+,490387020,SEAR SPRING STEEL GUARDER HICAPA HI-CAPA TM,https://tokopedia.com/bunshopz/sear-spring-steel-guarder-hicapa-hi-capa-tm,1,0,1,,Nonaktif,185000,17664fb8649b7712ccaa
+,338244472,SELAHAN SLAHAN STARTER KICK RXK ORI YAMAHA,https://tokopedia.com/bunshopz/selahan-slahan-starter-kick-rxk-ori-yamaha,0,0,15,,Aktif,180000,3216ea87fe55d1084e35
+,373536975,SHOCK BREAKER SHOCKBREAKER BELAKANG RIDEIT JUPITER Z VEGA Z VEGA ZR,https://tokopedia.com/bunshopz/shock-breaker-shockbreaker-belakang-rideit-jupiter-z-vega-z-vega-zr,15,0,15,,Aktif,815000,b01624600a7c1432b7a1
+,373537422,SHOCK BREAKER SHOCKBREAKER RIDEIT GP MIO BEAT VARIO LAMA ALL MATIC,https://tokopedia.com/bunshopz/shock-breaker-shockbreaker-rideit-gp-mio-beat-vario-lama-all-matic,1,0,1,,Aktif,265000,1dc1d51822ef93e2d8e5
+,373606835,SHOCKBREAKER BELAKANG YUZAKA SCORPIO Z MERAH,https://tokopedia.com/bunshopz/shockbreaker-belakang-yuzaka-scorpio-z-merah,14,0,14,,Aktif,174900,2b12bfbe7dd967216d14
+,373605525,SHOCKBREAKER BELAKANG YUZAKA VERZA KUNING,https://tokopedia.com/bunshopz/shockbreaker-belakang-yuzaka-verza-kuning,999999,0,999999,,Aktif,204900,c1d9626a0990f97d3a51
+,373605646,SHOCKBREAKER BELAKANG YUZAKA VERZA PUTIH,https://tokopedia.com/bunshopz/shockbreaker-belakang-yuzaka-verza-putih,10,0,10,,Aktif,204900,1bd2730002cf21480d21
+,373536518,SHOCKBREAKER SHOCK BREAKER BELAKANG MOTO GP MOTOGP MIO KARBU BIRU,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-belakang-moto-gp-motogp-mio-karbu-biru,15,0,15,,Aktif,150000,5589f8d8a7e349b3b6ef
+,373536051,SHOCKBREAKER SHOCK BREAKER BELAKANG PRO Z MIO RED MERAH YSS,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-belakang-pro-z-mio-red-merah-yss,14,0,14,,Aktif,340000,a2ddf3057718d8c24ae7
+,373537198,SHOCKBREAKER SHOCK BREAKER BELAKANG RIDE IT GP SUPRA REVO BLADE,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-belakang-ride-it-gp-supra-revo-blade,15,0,15,,Aktif,815000,b22a496fa890b41c769c
+,373536023,SHOCKBREAKER SHOCK BREAKER BELAKANG RIDE IT RIDEIT GP NMAX,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-belakang-ride-it-rideit-gp-nmax,15,0,15,,Aktif,765000,016aef506afc87c4c089
+,373535755,SHOCKBREAKER SHOCK BREAKER BELAKANG RIDE IT SATRIA FU,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-belakang-ride-it-satria-fu,15,0,15,,Aktif,440000,aedbe9bcdb6e3e761273
+,373535574,SHOCKBREAKER SHOCK BREAKER BELAKANG VARIO 125 150 RIDE IT,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-belakang-vario-125-150-ride-it,15,0,15,,Aktif,413900,10c1aadcb49421ec22a5
+,373605938,SHOCKBREAKER SHOCK BREAKER BELAKANG VERZA MERAH YUZAKA,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-belakang-verza-merah-yuzaka,15,0,15,,Aktif,204900,85368f0c744811c2088e
+,373608592,SHOCKBREAKER SHOCK BREAKER BELAKANG VIXION KUNING YUZAKA,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-belakang-vixion-kuning-yuzaka,15,0,15,,Aktif,174900,c3aa5b8c67b460e61b80
+,373608415,SHOCKBREAKER SHOCK BREAKER BELAKANG VIXION PUTIH,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-belakang-vixion-putih,1,0,1,,Aktif,173900,e4c5da8515b98370f750
+,373535151,SHOCKBREAKER SHOCK BREAKER BELAKANG YSS VARIO 125 150,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-belakang-yss-vario-125-150,15,0,15,,Aktif,340000,ef51c3c8de5330ebf13d
+,373617642,SHOCKBREAKER SHOCK BREAKER BYSON BISON KUNING YUZAKA,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-byson-bison-kuning-yuzaka,13,0,13,,Aktif,250000,3e349313ae12f4aebae7
+,373617905,SHOCKBREAKER SHOCK BREAKER BYSON BISON PUTIH YUZAKA,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-byson-bison-putih-yuzaka,13,0,13,,Aktif,250000,6bb5fb685c78af2171ce
+,373615422,SHOCKBREAKER SHOCK BREAKER JUPITER MX KUNING YUZAKA,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-jupiter-mx-kuning-yuzaka,15,0,15,,Aktif,175000,de6244cd8b7be183a84d
+,373615602,SHOCKBREAKER SHOCK BREAKER JUPITER MX MERAH YUZAKA,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-jupiter-mx-merah-yuzaka,13,0,13,,Aktif,175000,ab1538c4e3f8ccdce04e
+,373615716,SHOCKBREAKER SHOCK BREAKER JUPITER MX PUTIH YUZAKA,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-jupiter-mx-putih-yuzaka,15,0,15,,Aktif,175000,c92fe03e5c99c4c08e27
+,373536181,SHOCKBREAKER SHOCK BREAKER KTC KITACO MIO RED,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-ktc-kitaco-mio-red,15,0,15,,Aktif,290000,3b1b856d6faa329ae882
+,374470313,SHOCKBREAKER SHOCK BREAKER MATIC H20,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-matic-h20,999999,0,999999,,Aktif,275000,a0bd339fea16b435c486
+,373616953,SHOCKBREAKER SHOCK BREAKER MONOSHOCK TS 125 ORISINIL ORI SGP,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-monoshock-ts-125-orisinil-ori-sgp,10,0,10,,Nonaktif,980000,e2b4d19ee1e108df6f68
+,373612207,SHOCKBREAKER SHOCK BREAKER SATRIA FU F150 KUNING YUZAKA,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-satria-fu-f150-kuning-yuzaka,15,0,15,,Aktif,174899,6a4e62af2ea186139756
+,373612358,SHOCKBREAKER SHOCK BREAKER SATRIA FU F150 MERAH YUZAKA,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-satria-fu-f150-merah-yuzaka,14,0,14,,Aktif,174900,fd8974eb006f35db77fc
+,373614160,SHOCKBREAKER SHOCK BREAKER SATRIA FU F150 PUTIH YUZAKA,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-satria-fu-f150-putih-yuzaka,15,0,15,,Aktif,174900,fe6f80deb95f49acbb9a
+,373607198,SHOCKBREAKER SHOCK BREAKER SCORPIO Z SCORPIOZ PUTIH YUZAKA,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-scorpio-z-scorpioz-putih-yuzaka,15,0,15,,Aktif,174900,666a9d630ab815162a48
+,376696512,SHOCKBREAKER SHOCK BREAKER SHOK MIO MATIK MATIC TABUNG ATAS,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-shok-mio-matik-matic-tabung-atas,10,0,10,,Aktif,270000,60d48d95d1e8d0f7f6e7
+,373608208,SHOCKBREAKER SHOCK BREAKER VIXION MERAH YUZAKA,https://tokopedia.com/bunshopz/shockbreaker-shock-breaker-vixion-merah-yuzaka,15,0,15,,Aktif,174900,82bb355dd9e7748ba088
+,490405469,SLIDE LOCK STEEL GUARDER TM MARUI G17 G 17 18 19 KJW WE,https://tokopedia.com/bunshopz/slide-lock-steel-guarder-tm-marui-g17-g-17-18-19-kjw-we,0,0,0,,Nonaktif,165000,eb00baf93e62ffc031f6
+,484582795,SLIDE STOP G17 G SERIES ORI TM MARUI,https://tokopedia.com/bunshopz/slide-stop-g17-g-series-ori-tm-marui,1,0,1,,Nonaktif,45000,81130ae5c461919e82d6
+,550810328,SLR BODY SET NYLON TM M4 / M16 SERIES AEG,https://tokopedia.com/bunshopz/slr-body-set-nylon-tm-m4-m16-series-aeg,1,0,1,,Nonaktif,725000,1e83bcf4d39a96924d2f
+,1420868087,SPRING AND FOLLOWER PER MAG HICAPA HI-CAPA GUARDER TM KJW WE,https://tokopedia.com/bunshopz/spring-and-follower-per-mag-hicapa-hi-capa-guarder-tm-kjw-we,2,0,2,,Aktif,80000,8f219b7a82f27a28689e
+,499294190,SPRING SET STEEL GUARDER G17 G18 G19 G34 TM KJW WE MARUI,https://tokopedia.com/bunshopz/spring-set-steel-guarder-g17-g18-g19-g34-tm-kjw-we-marui,1,0,1,,Nonaktif,150000,14c570b88ade16b5a460
+,483925923,STABILIZER STABILISER OUTER BARREL OUTBAR G17 18C 19 34 TM WE KJW,https://tokopedia.com/bunshopz/stabilizer-stabiliser-outer-barrel-outbar-g17-18c-19-34-tm-we-kjw,0,0,0,,Nonaktif,155000,8c15f6489b4f275eab55
+,490408068,STEEL FRONT SIGHT FIBER OPTIC JLP ACCCELERATOR TM MARUI G17 17 18 19,https://tokopedia.com/bunshopz/steel-front-sight-fiber-optic-jlp-acccelerator-tm-marui-g17-17-18-19,1,0,1,,Nonaktif,375000,9a105f440665c8d86478
+,577680335,STEEL GUIDE ROD FOR HI-CAPA HICAPA 5.1 SILVER AM AIRSOFT MASTERPIECE,https://tokopedia.com/bunshopz/steel-guide-rod-for-hi-capa-hicapa-5-1-silver-am-airsoft-masterpiece,1,0,1,,Aktif,405000,d4c0ca0a5569fa892474
+,572641112,STEEL PIN BODY SET SILVER GUNSMODIFY G17 G34 G19 TM KJW WE,https://tokopedia.com/bunshopz/steel-pin-body-set-silver-gunsmodify-g17-g34-g19-tm-kjw-we,1,0,1,,Aktif,225000,381faa8b2c6f6aafb29f
+,671660302,STEEL REAR CHASSIS GUARDER TM G17 G 17 SERIES,https://tokopedia.com/bunshopz/steel-rear-chassis-guarder-tm-g17-g-17-series,1,0,1,,Aktif,675000,6e1e476ab34b19543d97
+,729320117,TRIGGER RING BAR STAINLESS STEEL AIP,https://tokopedia.com/bunshopz/trigger-ring-bar-stainless-steel-aip,3,0,3,,Aktif,175000,cef5c8b3edd6b86b43ca
+,1129712112,TRIGGER RING HICAPA TRIGGER BAR STAINLESS STEEL AIP HI-CAPA TM KJW WE,https://tokopedia.com/bunshopz/trigger-ring-hicapa-trigger-bar-stainless-steel-aip-hi-capa-tm-kjw-we,2,0,2,,Aktif,175000,2dddefc013160212a58c
+,515099215,TRIGGER TACTICAL COWCOW G17 G 17 19 22 34 TM WE KJW,https://tokopedia.com/bunshopz/trigger-tactical-cowcow-g17-g-17-19-22-34-tm-we-kjw,1,0,1,,Nonaktif,475000,6eb5c72ab0eb9212eb1f
+,618890369,TRIGGER TYPE 2 T2 ALUMINIUM CNC COWCOW TYPE 2 GOLD,https://tokopedia.com/bunshopz/trigger-type-2-t2-aluminium-cnc-cowcow-type-2-gold,1,0,1,,Nonaktif,255000,06edfb6361902f401997
+,484435071,TRIJICON MINI RMR G VARIANT REFLEX RED DOT AEG GBB GBBR TM KJW WE,https://tokopedia.com/bunshopz/trijicon-mini-rmr-g-variant-reflex-red-dot-aeg-gbb-gbbr-tm-kjw-we,1,0,1,,Nonaktif,650000,3de36dafee9cd19a5cbf

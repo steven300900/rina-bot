@@ -15,18 +15,19 @@ async def on_message(message):
     # we do not want the bot to reply to itself
     if message.author == client.user:
         return
+    
+    if message.content.startswith('-close'):
+        # close connection
+        await client.close()
 
-    if message.content.startswith('!'):
-        messageCore = str(message.content).strip('!')
-        reply = rinabot.reply(messageCore)
-        await message.channel.send(reply)
+    if message.content.startswith('-'):
+        mes = message.content.strip('-')
+        chat_reply = rinabot.reply(mes)
+        if chat_reply != -1:
+            await message.channel.send(chat_reply)
+        else:
+            return
 
-    if message.content == 'join':
-        await discord.VoiceChannel.connect(message.author.voice.channel)
-
-    if message.content.startswith('find'):
-        query = message.content[4:]
-        await message.channel.send(learn.find_video(query))
 
 @client.event
 async def on_ready():
@@ -35,5 +36,5 @@ async def on_ready():
     print('-----------------------------------------------')
 
 
-rinabot = rinabot.Bot(train=False)
+rinabot = rinabot.Bot(train=True, printInfo=True, shop_name="bunshopz")
 client.run(TOKEN)   

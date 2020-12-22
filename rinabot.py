@@ -10,10 +10,10 @@ from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 import pymongo
 
 class Bot:
-    def __init__(self, train=False, print_info=False, setup=False):
+    def __init__(self, shop_name, train=False, printInfo=False):
         self.train = train
-        self.print_info = print_info
-        self.setup = setup
+        self.printInfo = printInfo
+        self.shop_name = shop_name
         # parser that the bot will use
         self.factory = StemmerFactory()
         self.stemmer = self.factory.create_stemmer()
@@ -46,7 +46,7 @@ class Bot:
         # sort the labels
         self.labels = sorted(self.labels)
 
-        if self.print_info == True:
+        if self.printInfo == True:
             print("LABELS: " + str(len(self.labels)), self.labels)
             print("UTTERANCES: " + str(len(self.vocabularies)), self.vocabularies)
             print("TRAINING DATA: ", str(len(self.training_data)), self.training_data)
@@ -89,11 +89,11 @@ class Bot:
         # create model - 3 layers. First layer 128 neurons, second layer 64 neurons and 3rd output layer contains number of neurons
         # equal to number of intents to predict output intent with softmax
         model = keras.models.Sequential()
-        model.add(Dense(128, input_shape=(len(train_x[0]), ), activation='relu'))
+        model.add(Dense(len(self.vocabularies), input_shape=(len(train_x[0]), ), activation='relu'))
         model.add(Dropout(0.5))
-        model.add(Dense(64, activation='relu'))
+        model.add(Dense(32, activation='relu'))
         model.add(Dropout(0.5))
-        model.add(Dense(len(train_y[0]), activation='softmax'))
+        model.add(Dense(len(self.labels), activation='softmax'))
 
         # compile model. stochastic gradient descent with nesterov accelerated gradient gives good results for this model
         sgd = SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
@@ -102,7 +102,7 @@ class Bot:
         # fitting and saving the model
         hist = model.fit(np.array(train_x), np.array(train_y), epochs=200, batch_size=5, verbose=1)
         model.save('model/chatbot_model.h5', hist)
-        if self.print_info == True:
+        if self.printInfo == True:
             model.summary(line_length=None, positions=None, print_fn=None)
         return model
 
@@ -123,7 +123,13 @@ class Bot:
 
         # predict the intent from the user
         res = self.model.predict(np.array([bag]))[0]
-        user_intent = self.labels[np.argmax(res)]
+        percentage = np.amax(res) * 100
+        best_output = np.argmax(res)
+        user_intent = self.labels[best_output]
+        print(user_intent, percentage)
+
+        if percentage <= 80:
+            return -1
 
         # data-based intent
         special_content = ["ready", "recommendation"]
@@ -131,44 +137,40 @@ class Bot:
 
         # get response from a certain intent
         list_of_intents = self.data['intents']
-        for i in list_of_intents:
-            if i['tag'] == user_intent:
-                if i['tag'] in special_content and item != -1:
-                    if i['tag'] == 'ready':
-                        result = random.choice(i['responses']) + ' ' + item['amount'] + 'pcs'
-                    elif i['tag'] == "recommendation":
-                        result = random.choice(i['responses']) + ' ' + item['url']
+        for intent in list_of_intents:
+            if intent['tag'] == user_intent:
+                if intent['tag'] in special_content:
+                    if item == -1:
+                        result = "Hm saya kurang tahu kak"
+                    elif intent['tag'] == 'ready':
+                        result = random.choice(intent['responses']) + ' ' + item['stock'] + 'pcs'
+                    elif intent['tag'] == "recommendation":
+                        result = random.choice(intent['responses']) + ' ' + item['url']
                 else:
-                    result = random.choice(i['responses'])
-                break
-        return result
+                    result = random.choice(intent['responses'])
+                return result
 
     def search_item(self, user_dialogue):
         myclient = pymongo.MongoClient("mongodb://localhost:27017/")
-        mydb = myclient['mydatabase']
-        dataDB = mydb["items"]
-        
-        if self.setup == True:
-            with open('data/product_list.json') as database_file:
-                database_file = json.load(database_file)
-                dataDB.drop()
-                dataDB.insert_one(database_file)
-        
-        best_item = []
+        mydb = myclient['rina_bot_database']
+        dataDB = mydb[self.shop_name]
+
+        feasible_item = []
         for items in dataDB.find():
             for words in user_dialogue:
                 if words in items['tags']:
-                    best_item.append(items['id'])
-        best_item = sorted(best_item)
+                    feasible_item.append(items['id'])
+        feasible_item = sorted(feasible_item)
 
         best_id = {}
-        for id in best_item:
+        for id in feasible_item:
             if id in best_id:
                 curNum = best_id[id]
                 curNum += 1
                 best_id[id] = curNum
             else:
                 best_id[id] = 1
+
         output_item = ""
         if best_id:
             output_item = max(best_id, key=best_id.get)
@@ -178,8 +180,9 @@ class Bot:
             return -1
 
 # if __name__ == '__main__':
-#     rina_bot = Bot(train=True, print_info=False)
+#     rina_bot = Bot(shop_name="bunshopz", train=False, printInfo=False)
 #     while True:
 #         text = input()
-#         print(rina_bot.reply(text))
-
+#         reply = rina_bot.reply(text)
+#         if reply != -1:
+#             print(reply)

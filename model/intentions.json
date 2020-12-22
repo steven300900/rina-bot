@@ -1,7 +1,7 @@
 {
     "intents": [{
             "tag": "greet",
-            "patterns": ["Halo", "Selamat pagi", "Selamat sore", "Selamat malam", "Hai", "Hi", "Hai kak", "Halo gan"],
+            "patterns": ["Halo", "Selamat pagi", "Selamat sore", "Selamat malam", "Hai", "Hi", "Hai kak", "Halo gan", "Hello", "Helo"],
             "responses": ["Halo kak", "Hai kak", "Ada yang bisa dibantu kak?"]
         },
         {
@@ -16,22 +16,17 @@
         },
         {
             "tag": "open_hours",
-            "patterns": ["Masih buka tokonya?", "Masih buka tokonya kak?", "Tokonya apakah masih buka?"],
+            "patterns": ["Masih buka tokonya?", "Masih buka tokonya kak?", "Tokonya apakah masih buka?", "Jam buka", "Jam", "Tutup"],
             "responses": ["Toko kami buka dari jam 8 pagi sampai 8 malam kak"]
         },
         {
             "tag": "ready",
-            "patterns": ["Halo kak apakah barang ini ready?", "Ready kak?", "Ready gan?", "Redi kah?", "Ini ready gak kak?"],
+            "patterns": ["Halo kak apakah barang ini ready?", "Ready kak?", "Ready gan?", "Redi kah?", "Ini ready gak kak?", "Produk ini apakah ada?", "Ada produk ini?"],
             "responses": ["Ready kak barangnya", "Ready kak, silakan di order"]
         },
         {
-            "tag": "ready",
-            "patterns": ["Halo kak apakah barang ini ready?", "Ready kak?", "Ready gan?", "Redi kah?", "Ini ready gak kak?"],
-            "responses": ["Ready kak barangnya", "Ready kak", "Ada kak"]
-        },
-        {
             "tag": "recommendation",
-            "patterns": ["Mending yang mana kak?", "Kalo yang ini ada gak?", "Ada?", "Apakah yang tipe ini ada?"],
+            "patterns": ["Mending yang mana kak?", "Kalo yang ini ada gak?", "Ada?", "Apakah yang tipe ini ada?", "Saya mencari tipe yang ini", "Link ada", "Minta linknya", "Apakah ada link untuk produk ini?"],
             "responses": ["Yang ini boleh kak", "Silakan", "Mungkin yang ini bisa kak"]
         }
     ]
